@@ -8,7 +8,7 @@
     "dist"
   ],
   "scripts": {
-    "build": "tsc",
+    "build": "tsc && node -e \"require('fs').copyFileSync('src/types/coppeliasim-api.d.ts', 'dist/types/coppeliasim-api.d.ts')\"",
     "example": "ts-node examples/basic.ts",
     "prepare": "npm run build"
   },
