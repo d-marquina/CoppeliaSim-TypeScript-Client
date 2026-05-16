@@ -1,5 +1,5 @@
 /**
- * CoppeliaSim WS Remote API — Example Usage
+ * CoppeliaSim WS Remote API with TypeScript — Example Usage
  *
  * Make sure CoppeliaSim is running with a scene loaded and the
  * WebSocket Remote API server enabled (default port: 23050).

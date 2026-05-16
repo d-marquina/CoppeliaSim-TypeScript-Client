@@ -1,5 +1,5 @@
 /**
- * Entry point for the CoppeliaSim WS Remote API client library.
+ * Entry point for the CoppeliaSim Typescript Remote API Client library.
  */
 
 // Export the main client class
