@@ -1,3 +1,5 @@
+/// <reference path="./types/coppeliasim-api.d.ts" />
+
 /**
  * Entry point for the CoppeliaSim Typescript Remote API Client library.
  */
