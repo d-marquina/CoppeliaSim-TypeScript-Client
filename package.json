@@ -9,7 +9,8 @@
   ],
   "scripts": {
     "build": "tsc",
-    "example": "ts-node examples/basic.ts"
+    "example": "ts-node examples/basic.ts",
+    "prepare": "npm run build"
   },
   "dependencies": {
     "ws": "^8.18.0"
