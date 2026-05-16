@@ -1,0 +1,23 @@
+{
+  "name": "coppeliasim-ws-remote-api",
+  "version": "1.0.0",
+  "description": "TypeScript client for CoppeliaSim WebSocket Remote API",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "files": [
+    "dist"
+  ],
+  "scripts": {
+    "build": "tsc",
+    "example": "ts-node examples/basic.ts"
+  },
+  "dependencies": {
+    "ws": "^8.18.0"
+  },
+  "devDependencies": {
+    "@types/ws": "^8.5.13",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.5.3"
+  },
+  "private": true
+}
