@@ -16,9 +16,8 @@ This library is a native TypeScript drop-in replacement for the official browser
 Currently, this package is intended to be used directly from GitHub. You can install it in your project via:
 
 ```bash
-npm install github:YourUsername/coppeliasim-ts-client
+npm install github:d-marquina/CoppeliaSim-TypeScript-Client
 ```
-*(Replace `YourUsername/coppeliasim-ts-client` with your actual GitHub repository).*
 
 ## Prerequisites
 
