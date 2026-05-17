@@ -1,4 +1,4 @@
-/// <reference path="./coppeliasim-api.d.ts" />
+import type { CoppeliaSim } from './coppeliasim-api';
 
 /**
  * Type utilities for the CoppeliaSim WS Remote API TypeScript client.
